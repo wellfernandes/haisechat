@@ -1,2 +1,2 @@
 # haisechat
-simple chat using server socket
+Simple chat using server socket
